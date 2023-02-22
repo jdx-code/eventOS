@@ -1,3 +1,11 @@
 body{
     background-color: #000023;
 }
+
+#hero{
+  background: linear-gradient(rgba(37, 5, 49, 0.7), rgba(60, 14, 78, 0.7)), url(assets/meeting-gcc4e42172_1920.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed; 
+}
